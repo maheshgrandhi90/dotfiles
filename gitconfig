@@ -28,3 +28,6 @@
   path = ~/.gitconfig.local
 [diff]
   colorMoved = zebra
+[user]
+	email = mahesh.grandhi90@icloud.com
+	name = Mahesh Grandhi
